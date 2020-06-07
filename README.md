@@ -1,2 +1,2 @@
-# C-VIRUS-STAGE-FINAL
-Almost completed C-Virus Game
+# p5.play-boilerplate
+Boiler plate for p5.play
